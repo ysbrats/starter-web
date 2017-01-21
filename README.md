@@ -9,6 +9,7 @@ Sample website with plenty of files for demos
 
 ## Deployment
 Here we will see how Continuos Deployment will be helpful
+THis is to see how is Working Directory.
 ## Staging
-
+This is staging area. Here the files are jsut stagged to be commited.
 ## Finally
